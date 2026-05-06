@@ -1,4 +1,3 @@
-# Ejercicio 5: Suma de Números Enteros
 ## Descripción
 Este programa funciona como una calculadora básica de una sola operación. Solicita al usuario dos valores numéricos, realiza la conversión de tipo de dato (de cadena a entero) y ejecuta una operación aritmética de suma, presentando el resultado final de manera clara.
 
